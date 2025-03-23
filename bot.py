@@ -1,5 +1,4 @@
-pip uninstall aiogram -y
-pip install --upgrade aiogram
+
 
 #АКТУАЛЬНЫЙ 
 import logging
